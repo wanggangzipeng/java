@@ -9,8 +9,8 @@ public class dog {
  public void makenoise() {
      if(weightinpound<10){
          System.out.println("yip");
-     }else if(weightinpound < 90){
-         System.out.println("woolf");
+     }else if(weightinpound <30 ){
+         System.out.println("barkf");
      }
      else{
          System.out.println("large dog");
